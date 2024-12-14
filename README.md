@@ -16,7 +16,7 @@ export MUJOCO_PY_MJKEY_PATH=~/.mujoco/mjkey.txt
 export MUJOCO_PY_MUJOCO_PATH=~/.mujoco/mujoco200
 ```
 
-2. Install Mujoco.py:
+2. Install [Mujoco.py](https://github.com/openai/mujoco-py)
 <br><br>
 
 
