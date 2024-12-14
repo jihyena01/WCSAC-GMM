@@ -13,7 +13,7 @@ Before using this package, ensure that Mujoco and Mujoco.py are installed:
   
 ```python
 export MUJOCO_PY_MJKEY_PATH=~/.mujoco/mjkey.txt
-export MUJOCO_PY_MUJOCO_PATH=~/.mujoco/mujoco210
+export MUJOCO_PY_MUJOCO_PATH=~/.mujoco/mujoco200
 ```
 
 2. Install Mujoco.py:
