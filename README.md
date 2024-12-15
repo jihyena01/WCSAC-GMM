@@ -44,6 +44,10 @@ Warning: If you want to use the WCSAC_gmm algorithm in [Safety Gym](https://gith
 
 
 <br><br>
+## Reference 
+Reference paper: [Ha et al., 2020](https://ojs.aaai.org/index.php/AAAI/article/view/17272)   
+Reference github : [WCSAC](https://github.com/AlgTUDelft/WCSAC.git)
 
+<br><br>
 ## License
 This project is licensed under the [MIT License](LICENSE).
