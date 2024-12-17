@@ -1,7 +1,9 @@
 
 ## Introduction
-WCSAC-GMM extends the Worst-Case Soft Actor-Critic (WCSAC) framework by incorporating a Gaussian Mixture Model (GMM) to accurately model complex, multi-modal cost distributions. This enhancement improves safety-critical performance by enabling robust and adaptive risk assessment.<br><br>
+WCSAC-GMM extends the Worst-Case Soft Actor-Critic (WCSAC) framework by incorporating a Gaussian Mixture Model (GMM) to accurately model complex, multi-modal cost distributions. This enhancement improves safety-critical performance by enabling robust and adaptive risk assessment.<br><be>
 
+
+If you want more information about this project, please visit this [colab link](https://colab.research.google.com/drive/1kal_SLtaAeGRyMUdVPhlZEDsLxX0SBeL?usp=sharing)
 
 
 ## Prerequisites
